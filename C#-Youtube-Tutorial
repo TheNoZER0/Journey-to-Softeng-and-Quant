@@ -1,0 +1,22 @@
+C# vs .Net
+    - .Net is a framwroek for building application on Windows
+    - C# is a programming language
+
+.Net Framwork:
+    - Composed of two parts
+    -   CLR (Common language runtime)
+    -   Class Library
+
+CLR
+    - it is an application sitting in the memory whose job is to translate IL (Intermediate Language)
+    -   this is the language understood by all OS) into the OS code, this is called JIT (Just-in-time Compilation)
+
+Architechture of .NET
+    - Applications consists of building blocks called classes
+
+Class
+    - A container that contains data (atributes) and functions (methods)
+    - Funtions (methods) execute code
+    - Data reperesents the state of the application
+    - Example:
+        -   A Car is a class, its make and its model is its Data or attributes, its ability to start and move is its function (method)
